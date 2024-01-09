@@ -1,7 +1,7 @@
 # codemash-2024-show-me-themoney
 Software Architecture Kata
 
-##Show Me The Money!
+## Show Me The Money!
 - A local community college wants a new accounting system, because the old one sucks pretty badly.
 - Projected users: 1000+ users, staff and faculty, most of them local (but some nationwide or overseas)
 - Restriction: no web app (the president hates the web), minimal software costs
